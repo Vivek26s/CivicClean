@@ -1,0 +1,6 @@
+{
+  "name": "CivicClean — Smart City Waste Management",
+  "description": "Location-based garbage reporting, GPS dispatch, interactive city map monitoring, and worker task management platform for Smart Cities.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
